@@ -20,7 +20,6 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Program:
 i)	#Selection Sort
 ```
-\*
 Developed by: s.thirisha
 RegisterNumber: 22001920
 '''
@@ -35,11 +34,10 @@ arr=eval(input())
 size=len(arr)
 selectionSort(arr,size)
 print(arr)
-\*
 ```
+
 ii)	#Insertion Sort
 ```
-\*
 Developed by: s.thirisha
 RegisterNumber: 22001920
 '''
@@ -54,7 +52,6 @@ def insertion_sort(nums):
 list_of_nums=eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
-\*
 ```
 
 ## Output:
